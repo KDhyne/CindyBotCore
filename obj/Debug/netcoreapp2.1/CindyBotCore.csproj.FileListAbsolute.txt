@@ -1,0 +1,11 @@
+C:\Users\KDhyne\Documents\GitHub\CindyBotCore\bin\Debug\netcoreapp2.1\CindyBotCore.deps.json
+C:\Users\KDhyne\Documents\GitHub\CindyBotCore\bin\Debug\netcoreapp2.1\CindyBotCore.runtimeconfig.json
+C:\Users\KDhyne\Documents\GitHub\CindyBotCore\bin\Debug\netcoreapp2.1\CindyBotCore.runtimeconfig.dev.json
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\bin\Debug\netcoreapp2.1\CindyBotCore.dll
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\bin\Debug\netcoreapp2.1\CindyBotCore.pdb
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.csprojAssemblyReference.cache
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.csproj.CoreCompileInputs.cache
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.AssemblyInfoInputs.cache
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.AssemblyInfo.cs
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.dll
+c:\Users\KDhyne\Documents\GitHub\CindyBotCore\obj\Debug\netcoreapp2.1\CindyBotCore.pdb
