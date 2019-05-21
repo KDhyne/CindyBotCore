@@ -31,6 +31,7 @@ namespace CindyBot.Modules
                 var messages = await Context.Channel.GetMessagesAsync(count).FlattenAsync();
                 foreach (var m in messages)
                 {
+                    // Delete
                     await Context.Channel.DeleteMessageAsync(m);
                 }
                 await ReplyAsync($"{count} message{(count > 1 ? "s" : "")} deleted");
