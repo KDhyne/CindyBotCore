@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Discord;
 using Discord.Commands;
 using Discord.WebSocket;
+using CindyBot.Utilities;
 
 namespace CindyBot.Modules
 {
@@ -39,7 +40,7 @@ namespace CindyBot.Modules
                 {
                     await Context.Channel.DeleteMessageAsync(m);
                 }
-                await ReplyAsync($"```{count} message{(count != 1 ? "s" : "")} deleted```");
+                await ReplyAsync(Formatter.BlockMessage($"{count} message{(count != 1 ? "s" : "")} deleted"));
             }
 
             [Command("bot")]
